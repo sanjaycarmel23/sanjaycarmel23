@@ -21,7 +21,5 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white)
 
-### 📊 GitHub Stats
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaycarmel23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaycarmel23&layout=compact&theme=radical)
+
 
